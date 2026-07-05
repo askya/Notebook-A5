@@ -1,4 +1,4 @@
-= Template de Notebook A5
+= Template de Notebook : Notes and Indexes
 :toc:
 
 == Intentions
