@@ -2,7 +2,9 @@
 :toc:
 
 == Intentions
+
 L'objectif de ce projet est de fabriquer un notebook (carnet de notes) au format A5 doté des caractéristiques suivantes :
+
 * Des lignes espacées de 6 mm.
 * Des pages numérotées.
 * Un emplacement dédié pour la date et le jour de la semaine (Lu, Ma, Me...).
